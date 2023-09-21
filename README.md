@@ -9,9 +9,10 @@
 
 -->
 
-# SwiftUI-GeniusApp
+# SwiftUI-Apps
 
-Playing with *SwiftUI Views*, again - starting from a joke that the genius in Aladdin also needs a portfolio.
+Playing with *SwiftUI Views*, again and again.
+It started from a joke that the genius in Aladdin also needs a portfolio.
 There are also many other small apps or *Views* to test advanced DataFlow in SwiftUI, OpenWeather API Calls, MapKit, Interactables, layouts, ...
 
 
@@ -65,7 +66,9 @@ The repository for [Occitane de Banque](https://github.com/RaBalita/sw-arcade-ba
 
 ## Credits
 
-Some concepts of the example apps are taken from a [Udemy Course by Matthieu Passerel](https://www.udemy.com/course/ios15_french/), but I wrote the code as exercises. The *PracticeGenius/Assets.xcassets* and *Font* folders were removed, to avoid copyright issues.
+Some concepts of the example apps are taken from a [Udemy Course by Matthieu Passerel](https://www.udemy.com/course/ios15_french/), but I wrote the code as exercises - for deliberate practice. 
+
+The *PracticeGenius/Assets.xcassets* and *Font* folders were removed, to avoid copyright issues.
 
 ## Contact
 
