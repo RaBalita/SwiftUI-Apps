@@ -65,7 +65,7 @@ The repository for [Occitane de Banque](https://github.com/RaBalita/sw-arcade-ba
 
 ## Credits
 
-Some concepts and assets of the example apps are taken from a [Udemy Course by Matthieu Passerel](https://www.udemy.com/course/ios15_french/), but I wrote the code as exercises.
+Some concepts of the example apps are taken from a [Udemy Course by Matthieu Passerel](https://www.udemy.com/course/ios15_french/), but I wrote the code as exercises. The *PracticeGenius/Assets.xcassets* and *Font* folders were removed, to avoid copyright issues.
 
 ## Contact
 
