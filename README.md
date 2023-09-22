@@ -59,7 +59,7 @@ Social Network photo gallery
 
 ## Tests
 
-**As this work is primarily focused on views, I put no tests at all.**
+**As this work is primarily focused on views, I put no test at all.**
 
 The repository for [Occitane de Banque](https://github.com/RaBalita/sw-arcade-bankey/) has some Tests samples.
 
