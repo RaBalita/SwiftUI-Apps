@@ -61,7 +61,7 @@ Social Network photo gallery
 
 **As this work is primarily focused on views, I put no test at all.**
 
-The repository for [Occitane de Banque](https://github.com/RaBalita/sw-arcade-bankey/) has some Tests samples.
+I have a repository for showcasing [Test-Driven Development (TDD)](https://github.com/RaBalita/Swift-MovieTracker).
 
 
 ## Credits
